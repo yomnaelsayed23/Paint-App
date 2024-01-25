@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(194, 29, 57);
+    min-height: 100vh;
+}
+img{
+    width: 10px !important;
+}
+.div-container{
+    display: flex;
+    width: 100%;
+    max-width: 1050px;
+    
+
+}
+section{
+    background-color:black;
+}
